@@ -8,7 +8,7 @@ const NavBar = () => (
         <img src={myLogo} alt="Logo" className='my-logo'/>
         <h1>IDARESIT&apos;S <img src={githubLogo} alt="Logo" /> REPOSITORIES</h1>
         <nav>
-            <NavLink to="/Repositories" activeClassName='active-link'>Home</NavLink>
+            <NavLink to="/" activeClassName='active-link'>Home</NavLink>
             <NavLink to="/about" activeClassName='active-link'>About</NavLink>
             <NavLink to="/contact" activeClassName='active-link'>Contact Me</NavLink>
         </nav>
