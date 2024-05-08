@@ -2,7 +2,7 @@
 
 ### DESCRIPTION
 
-Github Repositories Display is an application that displays my Github repositories. Users can view the full list of my repositories, search for specific repositories and view some details about each reepsitory. The application also includes AboutMe and ContactMe pages so users can learn more about me and have a means of getting in touch.
+Github Repositories Display is an application that displays my Github repositories. Users can view the full list of my repositories, search for specific repositories and view some details about each repository. The application also includes AboutMe and ContactMe pages so users can learn more about me and have a means of getting in touch.
 
 ### INSTALLATION
 
